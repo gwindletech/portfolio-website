@@ -101,10 +101,10 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "Coming Soon",
+    title: "Django Project",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
-    tags: ["HTML", "CSS", "Bootstrap",],
+      "A simple project using Django and Bootstrap. ",
+    tags: ["Python", "Django", "Bootstrap",],
     imageUrl: walking_tour_screenshot,
   },
   {
