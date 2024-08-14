@@ -11,7 +11,8 @@ export default function Project({
     title,
     description,
     tags,
-    imageUrl
+    imageUrl,
+    projectUrl
 }:
 ProjectProps) {
     const ref = useRef<HTMLDivElement>(null);
