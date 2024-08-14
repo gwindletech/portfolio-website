@@ -4,6 +4,7 @@ import { LuGraduationCap } from "react-icons/lu";
 import walking_tour_screenshot from "@/public/walking_tour_screenshot.png";
 import weather_app_screenshot from "@/public/weather_app_screenshot.png";
 import happiness_app_screenshot from "@/public/happiness_app_screenshot.png";
+import niigata_akiya_screenshot from "@/public/niigataakiyascreenshot.pmg";
 
 export const links = [
   {
@@ -105,7 +106,7 @@ export const projectsData = [
     description:
       "A simple project using Django and Bootstrap. ",
     tags: ["Python", "Django", "Bootstrap",],
-    imageUrl: walking_tour_screenshot,
+    imageUrl: niigata_akiya_screenshot,
   },
   {
     title: "Coming Soon",
