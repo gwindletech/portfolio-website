@@ -107,6 +107,7 @@ export const projectsData = [
       "A simple project using Django and Bootstrap. ",
     tags: ["Python", "Django", "Bootstrap",],
     imageUrl: niigata_akiya_screenshot,
+    projectUrl: "https://gwindletech.pythonanywhere.com/",
   },
   {
     title: "Coming Soon",
@@ -114,6 +115,7 @@ export const projectsData = [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
     tags: ["Python", "Streamlit",],
     imageUrl: happiness_app_screenshot,
+    projectUrl: "#",
   },
   {
     title: "Coming Soon",
@@ -121,6 +123,7 @@ export const projectsData = [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     tags: ["Python", "Streamlit",],
     imageUrl: weather_app_screenshot,
+    projectUrl: "#",
   },
 ] as const;
 
