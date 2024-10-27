@@ -5,6 +5,7 @@ import walking_tour_screenshot from "@/public/walking_tour_screenshot.png";
 import weather_app_screenshot from "@/public/weather_app_screenshot.png";
 import happiness_app_screenshot from "@/public/happiness_app_screenshot.png";
 import niigata_akiya_screenshot from "@/public/niigataakiyascreenshot.png";
+import coffee_place_screenshot from "@/public/coffeesplacescreenshot.png";
 
 export const links = [
   {
@@ -110,12 +111,12 @@ export const projectsData = [
     projectUrl: "https://gwindletech.pythonanywhere.com/",
   },
   {
-    title: "Coming Soon",
+    title: "Basic Cafe Site",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
-    tags: ["Python", "Streamlit",],
-    imageUrl: happiness_app_screenshot,
-    projectUrl: "#",
+      "A basic cafe site using Vite, React, and Tailwind CSS",
+    tags: ["Vite", "React", "Tailwind CSS",],
+    imageUrl: coffee_place_screenshot,
+    projectUrl: "https://cafe-site-alpha.vercel.app/",
   },
   {
     title: "Coming Soon",
